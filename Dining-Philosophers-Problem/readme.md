@@ -19,3 +19,6 @@ This implementation uses:
 - **`finally` block**: Guarantees that locks (chopsticks) are always released, even if an exception occurs.
 
 ---
+
+## References
+https://en.wikipedia.org/wiki/Dining_philosophers_problem
